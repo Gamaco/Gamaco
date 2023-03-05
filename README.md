@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel.
 - 👀 I’m interested in programming for college, side projects and learning.
-- 🌱 I’m currently learning how to use this platform.
-- 💞️ I’m looking to collaborate on side projects with people I meet online. 
+- 🌱 I’m currently learning Django Rest Framework and occasionally React.
+- 💞️ I’m looking to collaborate on side projects with other students or friends. 
 - 📫 How to reach me gabrielmacolon@gmail.com
 
 <!---
