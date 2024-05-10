@@ -8,7 +8,7 @@ Here's a list of my goals before completing my journey as a computer scientist.<
      ⦾ Learn Linux.
      ⦾ Master complex algorithms in a particular language.
      ⦿ Learn full-stack web development.
-     ⦾ Creating my software product, doesn't matter how big or small.
+     ⦾ Creating a software product, doesn't matter how big or small.
      ⦿ Learn some basic game development.
 
   <br>![Hundreds-of-Extensions](https://github.com/Gamaco/Gamaco/assets/44788342/a9983831-6659-4bc7-82b9-0f539af779c4)
