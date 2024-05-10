@@ -4,11 +4,12 @@ Welcome to the club! Interested in exploring mutual interests? I welcome the opp
 
 Here's a list of my goals before completing my journey as a computer scientist.<br>
 
-     ⦾ Learn DevOps & cloud technologies.
-     ⦾ Learn Linux.
-     ⦾ Master complex algorithms in a particular language.
-     ⦿ Learn full-stack web development.
+     ⦾ DevOps & cloud technologies.
+     ⦾ Kubernetes.
+     ⦾ Linux.
+     ⦾ Complex algorithms in a particular language.
+     ⦿ Full-stack web development.
      ⦾ Create a software product, doesn't matter how big or small.
-     ⦿ Learn some basic game development.
+     ⦿ Basic game development.
 
   <br>![Hundreds-of-Extensions](https://github.com/Gamaco/Gamaco/assets/44788342/a9983831-6659-4bc7-82b9-0f539af779c4)
