@@ -12,4 +12,4 @@ Here's a list of my goals before completing my journey as a computer scientist.<
      ⦾ Create a software product, doesn't matter how big or small.
      ⦿ Basic game development.
 
-  <br>![Hundreds-of-Extensions](https://github.com/Gamaco/Gamaco/assets/44788342/a9983831-6659-4bc7-82b9-0f539af779c4)
+  <br>
